@@ -1,6 +1,6 @@
 <!-- Jatin Bunkar Notes For AWS Organization --> 
 ## AWS Organizations
-
+#pratiksha
 ### AWS Organizations Simplified:
 AWS Organizations is an account management service that enables you to consolidate multiple AWS accounts into an organization that you create and centrally manage.
 
